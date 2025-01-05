@@ -20,6 +20,6 @@ Magic 8 Ball là một ứng dụng dự đoán tương lai được phát tri�
 
 ## Ảnh minh họa
 
-![Demo](E:\Flutter ProJ\DaNenTang\lap4_magic_8_ball\images\demo.png)
+![Demo](images/demo.png)
 
 ## Cảm ơn bạn đã xem dự án!
